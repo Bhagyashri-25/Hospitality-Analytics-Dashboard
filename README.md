@@ -40,7 +40,7 @@ Welcome to the **Hospitality Analytics Dashboard**, an interactive Power BI repo
 
 ## 📷 Project Screenshot
 
-![Dashboard Preview](./8a1346d2-a786-40e0-bc1b-39fba08ed273.png)
+![Dashboard Preview](hospital.png)
 
 ---
 
